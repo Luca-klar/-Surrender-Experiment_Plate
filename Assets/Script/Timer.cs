@@ -7,7 +7,7 @@ public class RandomShuffleExample : MonoBehaviour
     int[] rnd = { 0, 1, 2 };
     public GameObject[] plateObj;
     int tmp = 0;
-    float time = 3f;
+    float time = 20f;
     public bool isAns = true;
 
     void Start()
